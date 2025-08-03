@@ -11,7 +11,7 @@ An easy-to-use bot for automating daily tasks in Zenless Zone Zero and other pop
 
 Uses all the battery to farm your items.
 
-### Collect all the polychromoes!
+### Collect all the polychromes!
 
 Cypher does all the daily activities for you.
 
