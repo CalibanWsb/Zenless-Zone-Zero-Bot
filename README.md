@@ -5,6 +5,24 @@
 
 An easy-to-use bot for automating daily tasks in Zenless Zone Zero and other popular gacha games.
 
+### Farm Disk-Sets and Agent Materials!
+
+<img src="https://github.com/user-attachments/assets/1cd478c5-a529-465f-b188-bd66a44a8c4d" />
+
+Uses all the battery to farm your items.
+
+### Collect all the polychromoes!
+
+Cypher does all the daily activities for you.
+
+### Modern and easy-to-use UI!
+
+<img src="https://github.com/user-attachments/assets/472c7ca7-8b5c-4ca1-b3b7-9651271db965" />
+
+<img src="https://github.com/user-attachments/assets/9a8969dc-17a7-4b61-9d78-cc8e09f32d32" />
+
+No fuzz, just press Start and Cypher is on it's way.
+
 ## 💾 Download & Getting Started
 
 You'll be up and running within a few minutes! All download links, instructions, and support are handled through our community Discord server.
