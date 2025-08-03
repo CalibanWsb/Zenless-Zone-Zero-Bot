@@ -69,3 +69,6 @@ Cypher is more than just a **Zenless Zone Zero bot**! It also supports:
 * **Nikke: Goddess of Victory** (for **Nikke auto daily** tasks)
 
 We will continuously add the most popular Gacha games to Cypher.
+
+<img src="https://github.com/user-attachments/assets/7b5582ac-e04f-422d-948e-4a84861d0e70" />
+
