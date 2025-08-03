@@ -31,14 +31,6 @@ Our **ZZZ bot** will handle the following for you:
 
 ---
 
-## 🎯 Planned Features
-
-* **Targeted Material Farming:** Automatically farm a specific Agent's or W-Engine's enhancement materials.
-* **Smart Drive Disc Locking:** Automatically lock powerful Drive Discs based on customizable stats.
-* **Reward Code Redemption:** Tracks and applies new reward codes directly to your ZZZ account.
-
----
-
 ## 🛡️ Safety First
 
 Cypher is designed from the ground up to be a **safe Zenless Zone Zero bot**. It operates by emulating a normal player's actions through mouse clicks and screen captures only.
