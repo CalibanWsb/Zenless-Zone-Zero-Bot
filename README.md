@@ -60,6 +60,7 @@ Cypher is designed from the ground up to be a **Zenless Zone Zero bot**. It oper
 
 Currently Cypher supports the following games:
 
+* Honkai: Star Rail
 * Nikke: Goddess of Victory
 * Zenless Zone Zero
 * Wuthering Waves (in development)
