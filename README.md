@@ -37,8 +37,6 @@ Follow the link and Cypher will be up and running in a few minutes.
 
 ## Features
 
-Our **ZZZ bot** will handle the following for you:
-
 * **Automatic Login:** No username/password required. Your credentials are never shared with Cypher.
 * **Farming:**  Automatically farm any Disk Set set or Agent Material you chose.
 * **Dailies:** Completes all daily requirements including commissions, managing Battery Charge, and more.
