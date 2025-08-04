@@ -13,6 +13,8 @@ Uses all the battery to farm your items.
 
 ### Collect all the polychromes!
 
+<img src="https://github.com/user-attachments/assets/3be39e5f-0083-4b65-b0ab-5c81f6b574ed" />
+
 Cypher does all the daily activities for you.
 
 ### Modern and easy-to-use UI!
