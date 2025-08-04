@@ -48,7 +48,7 @@ Our **ZZZ bot** will handle the following for you:
 
 ## Account Safety
 
-Cypher is designed from the ground up to be a **Zenless Zone Zero bot**. It operates by emulating a normal player's actions through mouse clicks and screen captures only.
+Cypher is designed from the ground up to be a **safe Zenless Zone Zero bot**. It operates by emulating a normal player's actions through mouse clicks and screen captures only.
 
 * **No Memory Reading/Writing:** Does not interact with the game's memory.
 * **No Kernel-Level Access:** Runs as a standard user-level application.
